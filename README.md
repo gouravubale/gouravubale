@@ -9,7 +9,7 @@
 I'm a passionate student currently diving deep into **Software Engineering** and **Full Stack Development**!  
 I love building projects and experimenting with Full Stack. My journey involves exploring new tools, algorithms, and sharing my learnings.
 
-- 🔭 **Projects:** [![Explore Projects](https://img.shields.io/badge/Explore%20Projects-0074D9?logo=github&logoColor=white&style=flat)]([https://github.com/gouravubale?tab=repositories])
+- 🔭 **Projects:** [![Explore Projects](https://img.shields.io/badge/Explore%20Projects-0074D9?logo=github&logoColor=white&style=flat)([https://github.com/gouravubale?tab=repositories])]
 - 🌱 **Currently Learning:**  GenAI , SAP
 - 💬 **Ask me about:** Python, SQL, Java Script, HTML, CSS, Deployment, React.js
 
